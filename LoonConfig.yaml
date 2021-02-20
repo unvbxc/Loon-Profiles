@@ -25,16 +25,16 @@ GEOIP, CN, DIRECT
 FINAL, Default
 
 [Remote Rule]
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/China.list, DIRECT
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list, DIRECT
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list, DIRECT
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list, DIRECT
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Google.list, Default
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/PayPal.list, Default
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/YouTube.list, Default
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Media/Netflix.list, Default
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Telegram.list, Default
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/ForeignMedia.list, Default
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Global.list, Default
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Google.list, Default
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/PayPal.list, Default
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Media/YouTube.list, Default
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Media/Netflix.list, Default
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Telegram.list, Default
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/ForeignMedia.list, Default
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list, Default
 https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list, REJECT
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list, REJECT
 
